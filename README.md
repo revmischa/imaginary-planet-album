@@ -1,10 +1,17 @@
 # Imaginary Planet
 
+<img src="cover.png" width="900" />
+
 These are the project files for the album Imaginary Planet, released Oct. 2020
 
 This project was worked on from 2009 to 2020, mostly in Metallia's old house on Carlson Blvd, El Cerrito, CA.
 
 I try to make everything I do open-source, why should an album be any different?
+
+## Cloning
+This repository uses [git LFS](https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/installing-git-large-file-storage) (large file storage).
+
+`git lfs fetch --all`
 
 ## Software
 
