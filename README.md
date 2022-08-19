@@ -9,9 +9,11 @@ This project was worked on from 2009 to 2020, mostly in Metallia's old house on 
 I try to make everything I do open-source, why should an album be any different?
 
 ## Cloning
-This repository uses [git LFS](https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/installing-git-large-file-storage) (large file storage).
+~This repository uses [git LFS](https://docs.github.com/en/free-pro-team@latest/github/managing-large-files/installing-git-large-file-storage) (large file storage).~
 
 `git lfs fetch --all`
+
+This is disabled to save money now but I am happy to provide the files upon request.
 
 ## Software
 
